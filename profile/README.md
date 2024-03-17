@@ -1,6 +1,6 @@
 ## 这里是ATCraft Network
 
-ATCraft Network简称@Craft，是一个将创造生存等为一体的多元玩法服务器/集群，旗下的两大服务器[TBSTCraft](https://tbstmc.xyz)和[ArtisticCraft](https://github.com/ArtisticCraft)。
+ATCraft Network简称@Craft，是一个将创造生存MOD等为一体的多元玩法服务器/集群，旗下的两大服务器[TBSTCraft](https://tbstmc.xyz)和[ArtisticCraft](https://github.com/ArtisticCraft)。
 
 同时非常欢迎你来加入我们...
 
